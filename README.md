@@ -1,4 +1,4 @@
-### Hi there 👋
+[![JustinBarnard's github stats](https://github-readme-stats.vercel.app/api?username=justinbarnard1&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/justinbarnard1/github-readme-stats)
 
 <!--
 **JustinBarnard1/JustinBarnard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
