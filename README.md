@@ -13,9 +13,8 @@
   </a>
   &emsp;
   </p>
-  <p align="center>
-    <img src="https://github.com/JustinBarnard1/JustinBarnard1/blob/main/assets/Icons.png?raw=true" alt="Languages" >
-    </p>
+  
+  ![icons](/assets/Icons.png)
 
 <!--
 **JustinBarnard1/JustinBarnard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
