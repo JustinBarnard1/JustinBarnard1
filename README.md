@@ -13,6 +13,9 @@
   </a>
   &emsp;
   </p>
+  <p align="center>
+    <img src="icons.png" alt="Languages">
+    </p>
 
 <!--
 **JustinBarnard1/JustinBarnard1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
