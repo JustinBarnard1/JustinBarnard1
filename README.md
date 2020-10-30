@@ -14,7 +14,7 @@
   &emsp;
   </p>
   <p align="center>
-    <img src="icons.png" alt="Languages">
+    <img src="@/assets/Icons.png" alt="Languages">
     </p>
 
 <!--
